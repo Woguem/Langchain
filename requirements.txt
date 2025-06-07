@@ -12,3 +12,12 @@ arxiv
 pymupdf
 wikipedia
 unstructured
+faiss-cpu
+langchain_google_genai
+langchain_huggingface
+langchain-pinecone
+weaviate-client
+langchain_weaviate
+wikipedia
+youtube-search
+langgraph
