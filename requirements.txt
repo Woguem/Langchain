@@ -21,3 +21,5 @@ langchain_weaviate
 wikipedia
 youtube-search
 langgraph
+chromadb
+langchain-chroma
